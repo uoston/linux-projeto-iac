@@ -5,7 +5,7 @@ Scripe em questão tem a seguinte estrutura.
 
 ![image](https://user-images.githubusercontent.com/9766877/223122318-2fc90bfb-1d95-4c9e-ab07-552eee274cae.png)  
 
-O sehll iacl.sh realiza as senguintes tarefas:  
+O shell iacl.sh realiza as senguintes tarefas:  
 
 1. Cria os diretórios  
 3. Cria os grupos de usuários
